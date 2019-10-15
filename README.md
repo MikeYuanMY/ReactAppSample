@@ -1,2 +1,5 @@
 # ReactAppSample
-React Application Sample
+
+This repository was the sample web application built on REACT. 
+
+> Will add more later
